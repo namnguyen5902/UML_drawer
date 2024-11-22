@@ -209,7 +209,7 @@
         <mxCell id="zD5rMN2hXHm76JTSlqMH-6" value="Transfer team" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="ApblwE8s_hvEqm3opGiO-1">
           <mxGeometry x="297.5" y="290" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zD5rMN2hXHm76JTSlqMH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ApblwE8s_hvEqm3opGiO-1" source="zD5rMN2hXHm76JTSlqMH-8" target="zD5rMN2hXHm76JTSlqMH-11">
+        <mxCell id="zD5rMN2hXHm76JTSlqMH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ApblwE8s_hvEqm3opGiO-1" source="zD5rMN2hXHm76JTSlqMH-8" target="zD5rMN2hXHm76JTSlqMH-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD5rMN2hXHm76JTSlqMH-8" value="Nghe transfer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="ApblwE8s_hvEqm3opGiO-1">
