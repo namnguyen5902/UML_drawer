@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="tzC-T3flc1oEp4o9LY7S">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="130" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="130" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-3" value="KH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-4" value="Brse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="130" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-6" value="Team" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-8" target="nnLdnBErIqc2DHJfIWVj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-8" value="Báo bug trên backlog" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="90" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-10" target="nnLdnBErIqc2DHJfIWVj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-10" value="Tester báo bug trên jira" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="90" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-12" target="nnLdnBErIqc2DHJfIWVj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-12" value="KH chốt MS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="90" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-14" target="nnLdnBErIqc2DHJfIWVj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-14" value="Báo team về MS KH đã set" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="150" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-16" target="nnLdnBErIqc2DHJfIWVj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-16" value="Điều tra nguyên nhân, cách fix" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="150" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-17" target="nnLdnBErIqc2DHJfIWVj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-17" value="Fix bug R1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-18" target="nnLdnBErIqc2DHJfIWVj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-18" value="Tạo PR bên KH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-19" target="nnLdnBErIqc2DHJfIWVj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-19" value="Nhờ KH review PR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-20" value="KH merge code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="290" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-25" value="Team test R2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="95" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
