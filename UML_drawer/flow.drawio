@@ -70,11 +70,20 @@
         <mxCell id="nnLdnBErIqc2DHJfIWVj-19" value="Nhờ KH review PR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="220" width="95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-20" target="nnLdnBErIqc2DHJfIWVj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nnLdnBErIqc2DHJfIWVj-20" value="KH merge code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="290" width="95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nnLdnBErIqc2DHJfIWVj-25" target="nnLdnBErIqc2DHJfIWVj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nnLdnBErIqc2DHJfIWVj-25" value="Team test R2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="425" y="290" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-26" value="Báo cáo KH fix bug done" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="340" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
