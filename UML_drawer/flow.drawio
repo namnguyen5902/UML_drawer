@@ -135,8 +135,8 @@
         <mxCell id="Woj8cOmQaObs-lzATWTE-15" value="Close bug trên jira" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="310" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sR0tkVFWlMUhjFbhm4ml-1" value="&lt;span data-teams=&quot;true&quot;&gt;Đối với bug cũ, đối ứng xong, báo evd:&lt;/span&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;- Assign lại bên test KH ( anh Abe - thông báo tới anh Sasaki, a Kumagai)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;- Để trạng thái là レビュー待ち&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="560" y="576.5" width="250" height="89" as="geometry" />
+        <mxCell id="sR0tkVFWlMUhjFbhm4ml-1" value="&lt;span data-teams=&quot;true&quot;&gt;Đối với bug cũ, đối ứng xong, báo evd:&lt;/span&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;- Assign lại bên test KH ( anh Abe - thông báo tới anh Sasaki, a Kumagai)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;- Để trạng thái là レビュー待ち&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;KH để trạng thái là 処理済み, yêu cầu nhập công số nếu cần&lt;/p&gt;&lt;p&gt;Done hết rồi thì mình lại đẩy về リリース待ち rồi đẩy lại về anh Abe&amp;nbsp;&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="560" y="576.5" width="250" height="173.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
