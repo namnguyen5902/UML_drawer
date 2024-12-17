@@ -87,7 +87,7 @@
         <mxCell id="nnLdnBErIqc2DHJfIWVj-25" value="Team test R2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="425" y="448" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nnLdnBErIqc2DHJfIWVj-26" value="Báo cáo KH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="nnLdnBErIqc2DHJfIWVj-26" value="Báo cáo KH,&lt;div&gt;close bug trên jira&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="498" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnLdnBErIqc2DHJfIWVj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nnLdnBErIqc2DHJfIWVj-8" target="nnLdnBErIqc2DHJfIWVj-12" edge="1">
@@ -117,11 +117,11 @@
         <mxCell id="Woj8cOmQaObs-lzATWTE-7" value="Nhập công số,&lt;div&gt;báo KH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="601" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Woj8cOmQaObs-lzATWTE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Woj8cOmQaObs-lzATWTE-9" target="Woj8cOmQaObs-lzATWTE-15" edge="1">
+        <mxCell id="Woj8cOmQaObs-lzATWTE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Woj8cOmQaObs-lzATWTE-9" target="Woj8cOmQaObs-lzATWTE-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Woj8cOmQaObs-lzATWTE-9" value="KH quyết định&lt;div&gt;không đối ứng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="167.5" y="217" width="95" height="40" as="geometry" />
+        <mxCell id="Woj8cOmQaObs-lzATWTE-9" value="KH quyết định&lt;div&gt;không đối ứng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="310" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Woj8cOmQaObs-lzATWTE-12" value="Nếu là bug cũ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="480" y="551" width="95" height="20" as="geometry" />
