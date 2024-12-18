@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Task" id="jNZB-xJwmTtZyeowq0SU">
-    <mxGraphModel dx="989" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ApblwE8s_hvEqm3opGiO-0" />
         <mxCell id="ApblwE8s_hvEqm3opGiO-1" parent="ApblwE8s_hvEqm3opGiO-0" />
@@ -358,7 +358,7 @@
           <mxGeometry x="425" y="921" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BukTmcEY4B6p-T3ta2qM-5" value="Báo KH test done" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="ApblwE8s_hvEqm3opGiO-1">
-          <mxGeometry x="297.5" y="981" width="95" height="40" as="geometry" />
+          <mxGeometry x="297.5" y="977" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BukTmcEY4B6p-T3ta2qM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ApblwE8s_hvEqm3opGiO-1" source="BukTmcEY4B6p-T3ta2qM-7" target="BukTmcEY4B6p-T3ta2qM-2">
           <mxGeometry relative="1" as="geometry" />
