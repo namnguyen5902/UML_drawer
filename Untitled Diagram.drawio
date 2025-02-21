@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="1dlACeMduNLvIQKLFd6k">
-    <mxGraphModel dx="478" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,26 +48,8 @@
         <mxCell id="uH7hZk817uCltiuJrhX8-17" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;CCUS có t&lt;/font&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hông tin về worker, thông tin công trường, ...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="395" y="180" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="245" width="120" height="135" as="geometry" />
-        </mxCell>
         <mxCell id="uH7hZk817uCltiuJrhX8-19" value="CCUS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="218" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công ty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="248" width="110" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-21" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="267" width="110" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master thể chế thi công / worker thể chế thi công&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="290" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master lịch sử công việc&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="325" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7hZk817uCltiuJrhX8-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master worker&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="350" width="110" height="20" as="geometry" />
+          <mxGeometry x="425" y="218" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uH7hZk817uCltiuJrhX8-29" value="&lt;div&gt;Chủ công ty&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="202" y="236" width="18" height="36" as="geometry" />
@@ -87,6 +69,166 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="260" as="sourcePoint" />
             <mxPoint x="230" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-38" value="&lt;div&gt;&lt;font&gt;ID công ty&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;ID admin/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;Mật khẩu,...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-39" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="334" width="18" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="uH7hZk817uCltiuJrhX8-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="364.83" as="sourcePoint" />
+            <mxPoint x="225" y="364.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="uH7hZk817uCltiuJrhX8-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="354.83" as="sourcePoint" />
+            <mxPoint x="400" y="355.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-42" value="Đăng ký" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH7hZk817uCltiuJrhX8-41">
+          <mxGeometry x="-0.2495" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ID worker/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Mật khẩu/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Thẻ CCUS/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Mã số nhận dạng cá nhân,...&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="251" y="370" width="140" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Worker tự nộp đơn hoặc người đại diện của họ nộp đơn bằng cách đính kèm các tài liệu chứng nhận&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(Trên màn hình CCUS,k&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hông thể thêm / thay đổi tự do)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-45" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Buildee muốn gì khi hợp tác với CCUS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;1. Đ&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;1&quot;&gt;ưa vào master data đã đăng ký (đặc biệt là thông tin worker) để giảm công việc nhập liệu.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;2. Gửi lịch sử công việc (lịch sử vào ra) đến CCUS&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-46" value="Buildee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="550" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="245" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công ty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry x="5" y="3" width="110" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-21" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry x="5" y="22" width="110" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master thể chế thi công / worker thể chế thi công&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry x="5" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master lịch sử công việc&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry x="5" y="80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master worker&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-47">
+          <mxGeometry x="5" y="105" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="429" y="551" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-50" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công ty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry x="5" y="3" width="110" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-51" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry x="5" y="22" width="110" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-52" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master thể chế thi công / worker thể chế thi công&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry x="5" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-53" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master lịch sử công việc&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry x="5" y="80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-54" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master worker&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-48">
+          <mxGeometry x="5" y="105" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=31.2;endSize=8.532;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="258" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-57" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Thu thập thông tin chính&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(công ty, công trường, worker)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH7hZk817uCltiuJrhX8-55">
+          <mxGeometry x="0.1238" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=48.8;endSize=5.888;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="633" as="sourcePoint" />
+            <mxPoint x="422" y="633" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="632.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-59" value="&lt;font size=&quot;1&quot;&gt;Gửi master data (công trường,&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&amp;nbsp;thể chế thi công,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;worker thể chế thi công)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH7hZk817uCltiuJrhX8-58">
+          <mxGeometry x="0.1238" y="-1" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=17.2;endSize=3.34;endWidth=15.12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="680.2" as="sourcePoint" />
+            <mxPoint x="420" y="680.2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-61" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Gửi lịch sử công việc&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH7hZk817uCltiuJrhX8-60">
+          <mxGeometry x="0.1238" y="-1" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-62" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Rào cản lớn nhất là việc thu thập thông tin worker.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Nhiều param cần phải được nhập&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="766" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-75" value="Buildee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="816" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="820" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-78" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công ty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry x="5" y="3" width="110" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-79" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master công trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry x="5" y="22" width="110" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-80" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master thể chế thi công / worker thể chế thi công&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry x="5" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-81" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master lịch sử công việc&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry x="5" y="80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-82" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data master worker&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uH7hZk817uCltiuJrhX8-76">
+          <mxGeometry x="5" y="105" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=70;endSize=6.959999999999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="851" as="sourcePoint" />
+            <mxPoint x="530" y="851" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="333" y="850.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH7hZk817uCltiuJrhX8-89" value="&lt;div&gt;ID công ty / ID quản trị viên / mật khẩu của&amp;nbsp;&lt;/div&gt;&lt;div&gt;công ty mà worker trực thuộc&lt;/div&gt;&lt;div&gt;ID worker/ Ngày sinh của worker&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;(Mã số nhận dạng của worker hoặc tên/kana)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uH7hZk817uCltiuJrhX8-85">
+          <mxGeometry x="0.3151" y="-2" relative="1" as="geometry">
+            <mxPoint x="-44" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
